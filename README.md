@@ -1,4 +1,4 @@
-<h1 align=center> Exp - 5 - Bubble Sort and Merge sort in CUDA </h1>
+# Exp-5 - Bubble Sort and Merge sort in CUDA </h1>
 <h3>NAME:  Suji G </h3>
 <h3>REGISTER NO: 212222230152</h3>
 <h3>DATE</h3>
